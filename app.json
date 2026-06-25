@@ -45,9 +45,7 @@
       "reactCompiler": true
     },
     "extra": {
-      "eas": {
-        "projectId": "momentum-motivationapp"
-      }
+      "eas": {}
     }
   }
 }
