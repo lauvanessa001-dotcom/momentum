@@ -16,10 +16,8 @@
     },
     "production": {
       "autoIncrement": true,
-      "image": "latest",
       "ios": {
-        "buildConfiguration": "Release",
-        "image": "latest"
+        "buildConfiguration": "Release"
       }
     }
   },
