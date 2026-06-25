@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner": "vlau001s-team",
     "name": "Momentum",
     "slug": "momentum",
     "version": "1.0.0",
@@ -19,7 +20,8 @@
       "buildNumber": "1",
       "infoPlist": {
         "NSUserNotificationsUsageDescription": "Momentum uses notifications to remind you about your habits and daily check-ins.",
-        "UIBackgroundModes": ["fetch"]
+        "UIBackgroundModes": ["fetch"],
+        "ITSAppUsesNonExemptEncryption": false
       }
     },
     "android": {
