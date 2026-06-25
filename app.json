@@ -16,7 +16,7 @@
     },
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.momentum.motivationapp",
+      "bundleIdentifier": "com.vanessalau.momentum",
       "buildNumber": "1",
       "infoPlist": {
         "NSUserNotificationsUsageDescription": "Momentum uses notifications to remind you about your habits and daily check-ins.",
