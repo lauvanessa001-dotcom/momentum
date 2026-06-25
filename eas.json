@@ -16,6 +16,7 @@
     },
     "production": {
       "autoIncrement": true,
+      "image": "macos-sequoia-15.2-xcode-16.2",
       "env": {
         "EAS_NO_FROZEN_LOCKFILE": "1"
       },
