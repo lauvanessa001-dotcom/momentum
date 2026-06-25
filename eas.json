@@ -21,7 +21,8 @@
       },
       "ios": {
         "distribution": "store",
-        "buildConfiguration": "Release"
+        "buildConfiguration": "Release",
+        "image": "latest"
       },
       "android": {
         "buildType": "app-bundle"
